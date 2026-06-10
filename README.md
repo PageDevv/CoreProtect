@@ -11,7 +11,7 @@
 CoreProtect is a fast, efficient data logging and anti-griefing tool. Inspect, lookup, rollback, and restore any amount of damage without impacting your server performance.
 
 CoreProtect is the [#1 anti-griefing plugin](https://bstats.org/plugin/bukkit/CoreProtect), and has been actively developed since early 2012.
-
+    
 | Quick Links |  |
 | --- | --- |
 | CoreProtect Discord: | [discord.gg/b4DZ4jy](https://discord.gg/b4DZ4jy) |
